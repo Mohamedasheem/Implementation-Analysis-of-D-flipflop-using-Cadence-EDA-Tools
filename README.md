@@ -27,6 +27,7 @@ iv.	Create the test Cell view.
 v.	Analog simulation by spectre
 
 
+
 i)	Procedure for Creating New Library.
 •	File –New – Library
 •	Name: Give name for ur library Ex: VLSILAB_EXP_1
